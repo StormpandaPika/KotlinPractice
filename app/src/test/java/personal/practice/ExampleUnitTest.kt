@@ -1,4 +1,4 @@
-package kotlin.practice
+package personal.practice
 
 import org.junit.Test
 
